@@ -9,8 +9,6 @@ Stepik: https://stepik.org/course/129449/info
 
 ### Module 4 - Numpy
 
-4.1 - Обзор раздела про NumPy
-
 4.2 - Массивы NumPy
 
 4.3 - Индексация и выбор данных из массивов NumPy
@@ -18,3 +16,13 @@ Stepik: https://stepik.org/course/129449/info
 4.4 - Операции в NumPy
 
 4.5 - Проверочные упражнения по NumPy
+
+### Module 5 - Pandas
+
+5.2-5.3 - Series
+
+5.4-5.7 - Датафреймы
+
+5.8 - Выборка данных по условию (Conditional Filtering)
+
+5.9 Полезные методы - Apply для одной колонки
