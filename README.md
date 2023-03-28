@@ -33,3 +33,12 @@ Stepik: https://stepik.org/course/129449/info
 
 5.16-5.19 - Объединение датафреймов
 
+5.20 - Методы Pandas для текста
+
+5.21 - Методы Pandas для даты и времени
+
+5.22-5.25 - Input/Output в Pandas
+
+5.26 - Сводные таблицы в Pandas (pivot tables)
+
+5.27 - Проверочные упражнения по Pandas
