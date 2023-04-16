@@ -42,3 +42,17 @@ Stepik: https://stepik.org/course/129449/info
 5.26 - Сводные таблицы в Pandas (pivot tables)
 
 5.27 - Проверочные упражнения по Pandas
+
+### Module 6 - Matplotlib
+
+6.2 - Основы Matplotlib
+
+6.3-6.5 - Объект Figure
+
+6.6 - Subplots
+
+6.7-6.8 - Стилизация Matplotlib
+
+6.9 - Дополнительные материалы по Matplotlib
+
+6.10 - Проверочные упражнения по Matplotlib
