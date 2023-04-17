@@ -56,3 +56,13 @@ Stepik: https://stepik.org/course/129449/info
 6.9 - Дополнительные материалы по Matplotlib
 
 6.10 - Проверочные упражнения по Matplotlib
+
+### Module 7 - Seaborn
+
+7.2 - Scatterplots
+
+7.3-7.4 - Distribution Plots
+
+7.5-7.6 - Categorical Plots - Статистики по категориям
+
+7.7-7.8 - Categorical Plots - Распределения по категориям
