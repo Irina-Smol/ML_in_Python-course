@@ -21,7 +21,7 @@ Stepik: https://stepik.org/course/129449/info
 
 5.2-5.3 - Series
 
-5.4-5.7 - Датафреймы жжжжж
+5.4-5.7 - Датафреймы
 
 5.8 - Выборка данных по условию (Conditional Filtering)
 
