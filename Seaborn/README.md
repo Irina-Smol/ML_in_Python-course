@@ -45,3 +45,7 @@ Boxplot отображает распределение непрерывной �
 ![2](https://sun9-1.userapi.com/impg/oGrY4-WRHySg6gMsRQ6NYa5hoTSUn8fTH94zhQ/Bl8RJ3-CTA0.jpg?size=738x396&quality=96&sign=1e2fa3da2b88b57f4e3b027fa13e9679&type=album)
 
 ![3](https://sun9-50.userapi.com/impg/QEgTqVwykugyYo-uoxiXXqEFMFCXbBj56sfUMw/7UEMFbZJItU.jpg?size=1008x471&quality=96&sign=a62fbed46787fde3a00aeefa388ff884&type=album)
+
+Violinplot отображает плотность распределения по данным с комощью KDE. Его можно представить себе как график KDE, отображенный в зеркале
+
+![4](https://sun9-5.userapi.com/impg/R1ZI3fww649mZg9SiLIssnSJLP4105ztY77RYw/S_DgzsJs43E.jpg?size=1047x411&quality=96&sign=33cd2f77c5b2edb03e5a731f3539879c&type=album)
