@@ -39,3 +39,9 @@ KDE Plot - способ построения непрерывного графи
 - Boxenplot
 
 Boxplot отображает распределение непрерывной переменной, использует квартили. Квартили разделяют все данные на 4 равных интервала по кол-ву точек: 25% точек в нижнем квартиле и 50-ый процентиль (Q2) это медиана
+
+Интерквартильный размах - это Q1 до Q3. Это 50% точек
+
+![2](https://sun9-1.userapi.com/impg/oGrY4-WRHySg6gMsRQ6NYa5hoTSUn8fTH94zhQ/Bl8RJ3-CTA0.jpg?size=738x396&quality=96&sign=1e2fa3da2b88b57f4e3b027fa13e9679&type=album)
+
+![3](https://sun9-50.userapi.com/impg/QEgTqVwykugyYo-uoxiXXqEFMFCXbBj56sfUMw/7UEMFbZJItU.jpg?size=1008x471&quality=96&sign=a62fbed46787fde3a00aeefa388ff884&type=album)
