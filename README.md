@@ -66,3 +66,11 @@ Stepik: https://stepik.org/course/129449/info
 7.5-7.6 - Categorical Plots - Статистики по категориям
 
 7.7-7.8 - Categorical Plots - Распределения по категориям
+
+7.9-7.10 - Comparison Plots - Графики сравнения
+
+7.11 - Seaborn Grid
+
+7.12 - Matrix Plots - Матричные графики
+
+7.13 - Проверочные упражнения по Seaborn
