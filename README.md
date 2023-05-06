@@ -7,6 +7,8 @@ Stepik: https://stepik.org/course/129449/info
 
 ![3](https://sun9-9.userapi.com/impg/kNLz_05k9LoxJeLMfnE-XVO_mhrwy3tnGSXk0A/rWcwT1VvF_M.jpg?size=1083x319&quality=96&sign=e44fc1dcdfd49e3e533952aa7801b393&type=album)
 
+![4](https://sun9-25.userapi.com/impg/CWqgNFHbVZf6H6DGjdGQFEYUz4WXP4cp_MtCow/ViQAzam4sHQ.jpg?size=967x427&quality=96&sign=ada836104f336c34e6b250ffbcb959b6&type=album)
+
 ## Структурa
 
 ### Module 4 - Numpy
