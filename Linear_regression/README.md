@@ -20,6 +20,17 @@
 
 ![9](https://user-images.githubusercontent.com/112115002/236645945-651949b9-1b51-4a5a-a226-b9894e83613e.png)
 
+### Градиентный спуск
+
+![11](https://user-images.githubusercontent.com/112115002/236680457-9b408b40-728e-420e-b2f2-7fbf8c3140b6.png)
+
+![12](https://user-images.githubusercontent.com/112115002/236680481-8fe8737a-5cbe-4179-ad53-bbdc66ec12d7.png)
+
+![13](https://user-images.githubusercontent.com/112115002/236680507-804844f4-f504-4a66-b697-6e7a13f78728.png)
+
+
+![10](https://user-images.githubusercontent.com/112115002/236680410-18d9a0cf-9b92-43e1-88c1-29ad9ebe1853.png)
+
 
 
 
